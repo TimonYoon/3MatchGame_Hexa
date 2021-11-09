@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Block_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 71c88f5429b866c4090097304e4b9cec, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3c536e305b0228b4a93e999addb2b914, type: 3}
+  - {fileID: 21300000, guid: 24bd2040689b0d446909fa9fc3ba9fe8, type: 3}
+  - {fileID: 21300000, guid: 8bb8487036965174b995e93e18d53ed0, type: 3}
+  - {fileID: 21300000, guid: 6b8cd821c85034346822a027dce1bcd0, type: 3}
+  - {fileID: 21300000, guid: 24582bf3526551548ab5aafe1f7b72f9, type: 3}
+  - {fileID: 21300000, guid: d76d1f05a0db42c48ab52efd883ac26a, type: 3}
+  - {fileID: 21300000, guid: 76042d566a7b8bb4cb0cde944beadf68, type: 3}
+  - {fileID: 21300000, guid: ab793937265b9b346a1513ef1533cffd, type: 3}
+  - {fileID: 21300000, guid: f2d48f77dff592e4faef5d697c79667d, type: 3}
+  - {fileID: 21300000, guid: afb1d2d7b746ec0418acbccfe9d31fb3, type: 3}
+  - {fileID: 21300000, guid: c899b1e7c06ebb84489520fddae07c33, type: 3}
+  - {fileID: 21300000, guid: fc5a8bf76f6780843b1496dbd0205f81, type: 3}
+  - {fileID: 21300000, guid: ce19f5e8afdfea34e94ccc6cd90651dc, type: 3}
+  - {fileID: 21300000, guid: e77a4689babe6c5468c2189ca08f919f, type: 3}
+  - {fileID: 21300000, guid: 50e4d9e96747c494eaff45fcc38075dc, type: 3}
+  - {fileID: 21300000, guid: 1b08286d18c43914aae5eddee31a4502, type: 3}
+  - {fileID: 21300000, guid: 31534d8edd7d63847801165744af4acd, type: 3}
+  - {fileID: 21300000, guid: 5058ef9e5c0d5434aae008cfe7181ced, type: 3}
+  - {fileID: 21300000, guid: 6f6f829f1d5ded144807594cceb93506, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Yellow_block_boomerang
+  - Orange_block_arrow
+  - Orange_block_normal
+  - Top_block
+  - Yellow_block_arrow
+  - Purple_block_normal
+  - Red_block_boomerang
+  - Purple_block_boomerang
+  - Green_block_arrow
+  - Purple_block_arrow
+  - Blue_block_arrow
+  - Yellow_block_normal
+  - Green_block_boomerang
+  - Blue_block_boomerang
+  - Red_block_normal
+  - Blue_block_normal
+  - Green_block_normal
+  - Red_block_arrow
+  - Orange_block_boomerang
+  m_RenderDataMap: {}
+  m_Tag: Block_Atlas
+  m_IsVariant: 0
